@@ -5,7 +5,6 @@ html {
 
 body {
   margin: 0;
-
 }
 
 header {
@@ -15,17 +14,14 @@ header {
   text-align: center;
 }
 
-
 h1 {
-    font-family: 'Bevan', sans-serif;
-    color: #FFF;
-    margin-top: .3em;
-    margin-bottom: 0em;
+  font-family: Bevan, sans-serif;
+  color: #fff;
+  margin-top: .3em;
 }
 
 nav ul {
   text-align: center;
-  margin-top: 0em;
 }
 
 nav li {
@@ -35,7 +31,7 @@ nav li {
 nav a {
   display: inline-block;
   margin: .3em;
-  padding: .6em .5em .6em;
+  padding: .6em .5em;
   text-decoration: none;
   color: #fff;
   background-color: #713837;
