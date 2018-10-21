@@ -1,0 +1,48 @@
+html {
+  background-color: #dbd6cf;
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+
+}
+
+header {
+  background-color: #79756f;
+  border: 2px solid #595652;
+  height: 20%;
+  text-align: center;
+}
+
+
+h1 {
+    font-family: 'Bevan', sans-serif;
+    color: #FFF;
+    margin-top: .3em;
+    margin-bottom: 0em;
+}
+
+nav ul {
+  text-align: center;
+  margin-top: 0em;
+}
+
+nav li {
+  display: inline;
+}
+
+nav a {
+  display: inline-block;
+  margin: .3em;
+  padding: .6em .5em .6em;
+  text-decoration: none;
+  color: #fff;
+  background-color: #713837;
+  font-size: 1.5em;
+  border-radius: 10px;
+}
+
+nav a:hover {
+  background-color: #f33;
+}
